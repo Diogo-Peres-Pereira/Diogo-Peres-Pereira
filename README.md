@@ -8,7 +8,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Diogo-Peres-Pereira&show_icons=true&theme=midnight-purple">
 </div>
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Peres-Pereira&langs_count=8&theme=midnight-purple">
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Peres-Pereira&langs_count=10&theme=midnight-purple">
 <img height="150em" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 </div>
 <div>
